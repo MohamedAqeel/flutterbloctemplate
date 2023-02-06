@@ -1,6 +1,6 @@
-import 'package:expensetracker/routes/app_routes.dart';
-import 'package:expensetracker/views/screens/authentication/authentication_screen.dart';
-import 'package:expensetracker/views/screens/splash/splash_screen.dart';
+import 'package:flutterbloctemplate/routes/app_routes.dart';
+import 'package:flutterbloctemplate/views/screens/authentication/authentication_screen.dart';
+import 'package:flutterbloctemplate/views/screens/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 class AppRouter {

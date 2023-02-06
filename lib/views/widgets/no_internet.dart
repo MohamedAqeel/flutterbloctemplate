@@ -1,6 +1,6 @@
-import 'package:expensetracker/config/strings.dart';
-import 'package:expensetracker/views/widgets/custom_button.dart';
-import 'package:expensetracker/views/widgets/custom_text.dart';
+import 'package:flutterbloctemplate/config/strings.dart';
+import 'package:flutterbloctemplate/views/widgets/custom_button.dart';
+import 'package:flutterbloctemplate/views/widgets/custom_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

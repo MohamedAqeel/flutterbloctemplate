@@ -1,4 +1,4 @@
-import 'package:expensetracker/views/widgets/custom_text.dart';
+import 'package:flutterbloctemplate/views/widgets/custom_text.dart';
 import 'package:flutter/material.dart';
 
 class CustomButton extends StatelessWidget {

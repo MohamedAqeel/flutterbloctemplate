@@ -1,4 +1,4 @@
-import 'package:expensetracker/config/theme.dart';
+import 'package:flutterbloctemplate/config/theme.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

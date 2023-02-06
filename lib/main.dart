@@ -1,8 +1,8 @@
-import 'package:expensetracker/business-logic/internet_bloc/internet_bloc.dart';
-import 'package:expensetracker/config/globals.dart';
-import 'package:expensetracker/config/theme.dart';
-import 'package:expensetracker/routes/app_pages.dart';
-import 'package:expensetracker/routes/app_routes.dart';
+import 'package:flutterbloctemplate/business-logic/internet_bloc/internet_bloc.dart';
+import 'package:flutterbloctemplate/config/globals.dart';
+import 'package:flutterbloctemplate/config/theme.dart';
+import 'package:flutterbloctemplate/routes/app_pages.dart';
+import 'package:flutterbloctemplate/routes/app_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -1,5 +1,5 @@
-import 'package:expensetracker/config/globals.dart';
-import 'package:expensetracker/views/widgets/custom_text.dart';
+import 'package:flutterbloctemplate/config/globals.dart';
+import 'package:flutterbloctemplate/views/widgets/custom_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
